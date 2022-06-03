@@ -8,4 +8,6 @@
 #
 
 # Run the app
+
+echo "THIS IS A CUSTOMIZATION INSIDE THE RUN SCRIPT!!! ------------------"
 exec /opt/app-root/app --lang es
